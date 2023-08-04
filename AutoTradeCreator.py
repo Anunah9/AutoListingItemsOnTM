@@ -97,6 +97,9 @@ def main():
         time.sleep(5)
         print('Принимаю трейды')
         confirm_all_ids()
+        time.sleep(5)
+        print('Проверяю подтверждение трейдов')
+        confirm_all_ids()
 
 
 
